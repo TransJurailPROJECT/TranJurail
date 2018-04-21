@@ -1,0 +1,12 @@
+body{
+	font-family: 'Jura', sans-serif;
+}
+
+.Haut {
+	background-color: #c0392b;
+    text-align:left;
+    color : #ffffff;
+	font-size: x-large;
+	font-family: 'Jura', sans-serif;
+	font-weight: bold;
+}

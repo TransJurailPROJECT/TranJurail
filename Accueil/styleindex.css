@@ -1,16 +1,9 @@
-body {
-    background-color: #87CEFA;
-    text-align:center;
-}
-
-
-
-img {
-	vertical-align:middle;
+body{
+	font-family: 'Jura', sans-serif;
 }
 
 .PageAccueil {
-	background-color: #87CEFA;
+	background-color: #ffffff;
 	font-family: 'Jura', sans-serif;
 	height:450px;
     text-align: left;
@@ -18,28 +11,15 @@ img {
 }
 
 .Haut {
-	background-color: #FF5E4D;
+	background-color: #c0392b;
     text-align:left;
-    color : #000000;
-	font-size: xx-large;
+    color : #ffffff;
+	font-size: x-large;
 	font-family: 'Jura', sans-serif;
 	font-weight: bold;
 }
 
-.Boutons {
-	height:100px;
-	background-color:#228B22;
-	font-weight: bold;
-	font-family: 'Jura', sans-serif;
-    vertical-align:middle;
-}
+#bouton {
+	box-shadow: 4px 4px 0px #2d3436;
 
-.Espace{
-    background-color:#ffffff;
-	height:10px;
 }
-
-Accueil{
-	font-family: 'Jura', sans-serif;
-}
-

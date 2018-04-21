@@ -1,0 +1,45 @@
+body {
+    background-color: #87CEFA;
+    text-align:center;
+}
+
+
+
+img {
+	vertical-align:middle;
+}
+
+.PageAccueil {
+	background-color: #87CEFA;
+	font-family: 'Jura', sans-serif;
+	height:450px;
+    text-align: left;
+    font-size: xx-large;
+}
+
+.Haut {
+	background-color: #FF5E4D;
+    text-align:left;
+    color : #000000;
+	font-size: xx-large;
+	font-family: 'Jura', sans-serif;
+	font-weight: bold;
+}
+
+.Boutons {
+	height:100px;
+	background-color:#228B22;
+	font-weight: bold;
+	font-family: 'Jura', sans-serif;
+    vertical-align:middle;
+}
+
+.Espace{
+    background-color:#ffffff;
+	height:10px;
+}
+
+Accueil{
+	font-family: 'Jura', sans-serif;
+}
+

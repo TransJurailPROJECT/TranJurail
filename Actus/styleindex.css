@@ -10,3 +10,30 @@ body{
 	font-family: 'Jura', sans-serif;
 	font-weight: bold;
 }
+
+#bouton {
+	box-shadow: 4px 4px 0px #2d3436;
+
+}
+
+.Actus {
+	background-color: #ffffff;
+	font-family: 'Jura', sans-serif;
+	height:450px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.Titre1{
+	text-decoration:underline;
+}
+
+.Sponsors{
+	text-align:center;
+	background-color: #222f3e;
+}
+
+.PhraseSponsors{
+	color:ffffff;
+	font-family: 'Jura', sans-serif;
+}

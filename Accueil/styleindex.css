@@ -24,6 +24,16 @@ body{
     font-size: xx-large;
 }
 
-h1{
+.Titre1{
 	text-decoration:underline;
+}
+
+.Sponsors{
+	text-align:center;
+	background-color: #222f3e;
+}
+
+.PhraseSponsors{
+	color:ffffff;
+	font-family: 'Jura', sans-serif;
 }
